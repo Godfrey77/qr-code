@@ -1,0 +1,30 @@
+body{
+    background-color: aquamarine;
+}
+.container{
+    width: 350px;
+    height: 500px;
+    background-color: white;
+    top: 20%;
+    position: absolute;
+    left:450px ;
+    border-radius: 10px;
+}
+img{
+    top: -180%;
+    position: absolute;
+    right: calc(40px);
+    border-radius: 10px;
+}
+.container2{
+    top: 60%;
+    position: absolute;
+    left: calc(490px);
+    text-align: center;
+        }
+    .container3{
+        top: 75%;
+        position: absolute;
+        text-align: center;
+        left: calc(495px);
+    }
